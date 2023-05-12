@@ -29,6 +29,8 @@ No dudes en contactarme😊
 
 - [PI-Videogames](https://github.com/Nicolas-Flores-22/PI-Videogames): Aplicación web para explorar y buscar videojuegos, utilizando la API de videojuegos.
 
+- [Org](https://github.com/Nicolas-Flores-22/org): Aplicación web para registrar colaboradores y equipos de una organización.
+
 ## Proyectos en los que he colaborado
 - [meditech-frontend](https://github.com/jacadev/meditech-frontend): Repositorio frontend del proyecto Meditech, una aplicación de reserva de citas médicas.
 
