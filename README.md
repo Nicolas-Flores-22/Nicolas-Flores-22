@@ -15,6 +15,7 @@
 - PostgreSQL
 - Express
 - JavaScript
+- TypeScript
 - CSS
 - HTML
 - Metodología ágil de Scrum
