@@ -18,6 +18,7 @@
 - TypeScript
 - CSS
 - HTML
+- TailwindCSS
 - Metodología ágil de Scrum
 
 ## Contacto
